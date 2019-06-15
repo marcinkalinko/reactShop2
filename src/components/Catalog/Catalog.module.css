@@ -1,0 +1,14 @@
+.Catalog {
+    display: flex;
+}
+
+.ColumnLeft {
+    width: 25%;
+}
+
+.ColumnRight {
+    width: 75%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
